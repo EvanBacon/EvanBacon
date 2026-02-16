@@ -6,7 +6,7 @@ Building [Expo](https://expo.dev). Follow me on [X](https://x.com/baconbrix) for
 
 ### Libraries & Tools
 
-- **[expo-apple-targets](https://github.com/EvanBacon/expo-apple-targets)** — Apple multi-target from the command-line (Widgets, App Clips, +43 more)
+- **[expo-apple-targets](https://github.com/EvanBacon/expo-apple-targets)** — `bun create target` (Widgets, App Clips, +43 more)
 - **[expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions)** — Home screen shortcuts and dynamic icons, one API for iOS and Android
 - **[crispy](https://github.com/EvanBacon/crispy)** — Drop-in UI primitives for Expo Router apps
 - **[expo-mdx](https://github.com/EvanBacon/expo-mdx)** — MDX that runs everywhere: iOS, Android, and web
