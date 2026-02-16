@@ -30,9 +30,3 @@ Building [Expo](https://expo.dev). Follow me on [X](https://x.com/baconbrix) for
 - **[expo-router-twitter](https://github.com/EvanBacon/expo-router-twitter)** — Expo Router Twitter clone
 - **[app-that-builds-apps](https://github.com/EvanBacon/app-that-builds-apps)** — An app that builds truly native apps and websites, built with Expo Router and AI SDK
 - **[expo-shadcn-ui-demo](https://github.com/EvanBacon/expo-shadcn-ui-demo)** — Shadcn UI on web with Expo Router
-
-### Resources
-
-- **[AWESOME-REACT-NATIVE-WEB](https://github.com/EvanBacon/AWESOME-REACT-NATIVE-WEB)** — React Native Web patterns, techniques, tips, and tricks
-- **[evanbacon.dev](https://github.com/EvanBacon/evanbacon.dev)** — Portfolio site built with Expo Router
-- **[icon-builder](https://github.com/EvanBacon/icon-builder)** — Website for building simple icons for React Native apps
