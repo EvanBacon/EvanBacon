@@ -6,6 +6,7 @@ Building [Expo](https://expo.dev). Follow me on [X](https://x.com/baconbrix) for
 
 ### Libraries & Tools
 
+- **[expo](https://github.com/expo/expo)** — Universal native apps with React for Android, iOS, and the web
 - **[bun create target](https://github.com/EvanBacon/expo-apple-targets)** — Apple multi-target from the command-line (Widgets, App Clips, +43 more)
 - **[expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions)** — Home screen shortcuts and dynamic icons, one API for iOS and Android
 - **[crispy](https://github.com/EvanBacon/crispy)** — Drop-in UI primitives for Expo Router apps
