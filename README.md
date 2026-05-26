@@ -18,7 +18,7 @@ Building [Expo](https://expo.dev). Follow me on [X](https://x.com/baconbrix) for
 - **[apple-health](https://github.com/EvanBacon/apple-health)** — Apple HealthKit bindings for Expo
 - **[serve-sim](https://github.com/EvanBacon/serve-sim)** — `npx serve` but for iOS Simulators
 - **[inspect-webkit](https://github.com/EvanBacon/inspect-webkit)** — Inspect iOS Safari and WebViews from Chrome DevTools
-- **[agent-rsvp](https://github.com/EvanBacon/agent-rsvp)** — Speed-reading skill that lets agents read 10× faster
+- **[agent-rsvp](https://github.com/EvanBacon/agent-rsvp)** — Speed-reading skill that helps you read agent plans and output faster using Rapid Serial Visual Presentation (RSVP)
 - **[expo-dark-mode-switch](https://github.com/EvanBacon/expo-dark-mode-switch)** — One toggle, three platforms, smooth animated dark mode
 - **[metro-minify-esbuild](https://github.com/EvanBacon/metro-minify-esbuild)** — Drop-in ESBuild minifier for Metro — dramatically faster bundles
 - **[expo-apple-colors](https://github.com/EvanBacon/expo-apple-colors)** — Apple's dynamic system colors on every platform
