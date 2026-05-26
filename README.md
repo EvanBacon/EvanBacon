@@ -9,11 +9,16 @@ Building [Expo](https://expo.dev). Follow me on [X](https://x.com/baconbrix) for
 - **[expo](https://github.com/expo/expo)** — Universal native apps with React for Android, iOS, and the web
 - **[bun create target](https://github.com/EvanBacon/expo-apple-targets)** — Apple multi-target from the command-line (Widgets, App Clips, +43 more)
 - **[bun create symbol](https://github.com/EvanBacon/create-symbol)** — Create SF Symbols from the command-line
+- **[bun create xcode](https://github.com/EvanBacon/create-xcode)** — Spin up Xcode projects from the command-line, agent-ready
 - **[expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions)** — Home screen shortcuts and dynamic icons, one API for iOS and Android
 - **[crispy](https://github.com/EvanBacon/crispy)** — Drop-in UI primitives for Expo Router apps
 - **[expo-mdx](https://github.com/EvanBacon/expo-mdx)** — MDX that runs everywhere: iOS, Android, and web
 - **[react-native-web-hooks](https://github.com/EvanBacon/react-native-web-hooks)** — Web-aware hooks for React Native (media queries, dimensions, hover)
 - **[xcode](https://github.com/EvanBacon/xcode)** — Blazing fast .pbxproj parser in pure TypeScript
+- **[apple-health](https://github.com/EvanBacon/apple-health)** — Apple HealthKit bindings for Expo
+- **[serve-sim](https://github.com/EvanBacon/serve-sim)** — `npx serve` but for iOS Simulators
+- **[inspect-webkit](https://github.com/EvanBacon/inspect-webkit)** — Inspect iOS Safari and WebViews from Chrome DevTools
+- **[agent-rsvp](https://github.com/EvanBacon/agent-rsvp)** — Speed-reading skill that lets agents read 10× faster
 - **[expo-dark-mode-switch](https://github.com/EvanBacon/expo-dark-mode-switch)** — One toggle, three platforms, smooth animated dark mode
 - **[metro-minify-esbuild](https://github.com/EvanBacon/metro-minify-esbuild)** — Drop-in ESBuild minifier for Metro — dramatically faster bundles
 - **[expo-apple-colors](https://github.com/EvanBacon/expo-apple-colors)** — Apple's dynamic system colors on every platform
@@ -23,6 +28,8 @@ Building [Expo](https://expo.dev). Follow me on [X](https://x.com/baconbrix) for
 
 - **[Expo-Crossy-Road](https://github.com/EvanBacon/Expo-Crossy-Road)** — Crossy Road in the browser and mobile with three.js
 - **[expo-ai](https://github.com/EvanBacon/expo-ai)** — Full-stack AI chat running natively on iOS, Android, and web
+- **[chat-template](https://github.com/EvanBacon/chat-template)** — Universal chat app template built with Expo Router
+- **[expo-router-google-home](https://github.com/EvanBacon/expo-router-google-home)** — Google Home client with WebRTC, RSC, and DOM components
 - **[pillar-valley](https://github.com/EvanBacon/pillar-valley)** — 3D arcade game you can play on any device, built with three.js
 - **[firebase-instagram](https://github.com/EvanBacon/firebase-instagram)** — Pixel-perfect Instagram with real-time Firebase backend
 - **[expo-router-layouts-example](https://github.com/EvanBacon/expo-router-layouts-example)** — Shared layouts and nested navigation patterns in Expo Router
