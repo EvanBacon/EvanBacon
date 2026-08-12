@@ -1,6 +1,6 @@
 # Evan Bacon
 
-Building [Expo](https://expo.dev). Follow me on [X](https://x.com/baconbrix) for updates.
+Building [Grok](https://grok.com) at SpaceXAI. Follow me on [X](https://x.com/baconbrix) for updates.
 
 ## Open Source Projects
 
